@@ -10,7 +10,7 @@ SQL Joins are used to combine records from two or more tables based on a related
 ### 1. INNER JOIN
 Returns records with matching values in both tables.
 
-**Syntax:**
+**Syntax:** 
 ```sql
 SELECT columns
 FROM table1
