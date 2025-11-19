@@ -14,7 +14,7 @@ There are two types of cursors:
 
 Types of Explicit Cursors:
 
-1. Simple Cursor: Basic cursor to iterate over multiple rows.
+1. Simple Cursor: Basic cursor to iterate over multiple rows. 
 
 2. Parameterized Cursor: Accepts parameters to filter the result dynamically.
 
