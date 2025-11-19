@@ -4,7 +4,7 @@ To write and execute PL/SQL trigger programs for automating actions in response 
 
 ---
 
-## THEORY
+## THEORY 
 
 A **trigger** is a stored PL/SQL block that is automatically executed or fired when a specified event occurs on a table or view. Triggers can be used for enforcing business rules, auditing changes, or automatic updates.
 
@@ -212,5 +212,6 @@ VALUES (2, 'Jane Smith', 4000);
 
 ## RESULT
 Thus, the PL/SQL trigger programs were written and executed successfully.
+
 
 
