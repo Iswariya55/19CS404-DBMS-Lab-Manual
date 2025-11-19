@@ -13,7 +13,7 @@ These perform calculations on a set of values and return a single value.
 - **COUNT()** – Number of rows  
 - **SUM()** – Total of values  
 - **AVG()** – Average of values
-
+ 
 **Syntax:**
 ```sql
 SELECT AGG_FUNC(column_name) FROM table_name WHERE condition;
