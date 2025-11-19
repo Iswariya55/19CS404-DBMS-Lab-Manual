@@ -9,7 +9,7 @@ To study and implement subqueries and views.
 A subquery is a query inside another SQL query and is embedded in:
 - WHERE clause
 - HAVING clause
-- FROM clause
+- FROM clause 
 
 **Types:**
 - **Single-row subquery**:
